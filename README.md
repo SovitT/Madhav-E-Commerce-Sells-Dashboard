@@ -39,6 +39,11 @@ This Power BI project presents an interactive dashboard designed to track, analy
 
 This project was created to demonstrate data visualization and business intelligence skills using Power BI, and to simulate a real-world e-commerce analytics scenario.
 
+## 🖼 Image of Dashboard
+
+<img width="485" height="275" alt="image" src="https://github.com/user-attachments/assets/4bcea8da-1285-4ce7-9e05-d94a6f427c35" />
+
+
 ---
 
 **Author**: Sovit Thakre  
